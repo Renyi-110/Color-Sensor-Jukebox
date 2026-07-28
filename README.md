@@ -1,10 +1,15 @@
+
 <div align="center">
 
 # Color Sensor Jukebox
 
 ### A music composer/player using colors.
 
-List of Materials
+## Circuit Diagram 
+
+<img width="820" height="748" alt="Jukebox Circuit Diagram" src="https://github.com/user-attachments/assets/43eadb47-ea97-46d7-b74e-bddfff497f24" />
+
+## List of Materials
 
 | Product \# | Name | Qty | Dimension | Function | Interaction with other parts | Website |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
