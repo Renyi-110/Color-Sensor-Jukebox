@@ -1,4 +1,10 @@
+<div align="center">
 
+# Color Sensor Jukebox
+
+### A music composer/player using colors.
+
+List of Materials
 
 | Product \# | Name | Qty | Dimension | Function | Interaction with other parts | Website |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
