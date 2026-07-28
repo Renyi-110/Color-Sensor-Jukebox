@@ -4,6 +4,8 @@
 # Color Sensor Jukebox
 
 ### A music composer/player using colors.
+An interactive system where users can "write a song" by inserting colored chips into a drawer. Each chip corresponds to a musical note. Users input the song using a physical interface, and it plays through a buzzer.
+
 
 ## Circuit Diagram 
 
